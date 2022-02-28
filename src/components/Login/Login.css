@@ -1,0 +1,58 @@
+.login-wrapper {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+}
+
+
+.input {
+    width: 40%;
+    margin: 30px;
+
+}
+
+.outlined {
+    width: 30%;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+
+}
+
+a:hover {
+    color: #4e00af;
+}
+
+.formControl {
+    margin: 30px;
+}
+
+
+#img {
+    width: 24px;
+    height: 24px;
+}
+
+.submitForm button {
+    background-color: lightskyblue;
+}
+
+.strength-bar {
+    width: 40%;
+    margin: auto;
+}
+
+.password {
+    width: 40%;
+    margin: auto;
+}
+
+.linkRegister{
+    text-decoration: underline;
+}
+
+

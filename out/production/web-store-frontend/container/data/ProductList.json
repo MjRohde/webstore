@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "productCategory": "Bukser",
+      "productName": "Jeans",
+      "productPrice": "2000",
+      "description": "Sterke, og utholdne turbukse, som gir god comfort når man går over steiner og fjellstier",
+      "image": "https://static.zajo.net/content/mediagallery/zajo_dcat/image/product/types/X/9457.png",
+      "maxQuantity": "100"
+    },
+    {
+      "id": 2,
+      "productCategory": "T-skjorter",
+      "productName": "Blå T-skjorte",
+      "productPrice": "251",
+      "description": "Superlett, pustende, syntetisk kortermet t-skjorte",
+      "image": "https://static.zajo.net/content/mediagallery/zajo_dcat/image/product/types/X/9088.png",
+      "maxQuantity": "100"
+    },
+    {
+      "id": 3,
+      "productCategory": "Boxershorts",
+      "productName": "Boxers",
+      "productPrice": "179",
+      "description": "Classic mens boxershorts av merino ull, som gir max støtte under trening og under hverdagen.",
+      "image": "https://static.zajo.net/content/mediagallery/zajo_dcat/image/product/types/X/9295.png",
+      "maxQuantity": "100"
+    },
+    {
+      "id": 4,
+      "productCategory": "Skjorter",
+      "productName": "Langermet skjorte",
+      "productPrice": "499",
+      "description": "Denim skjorte for menn, laget av 100% bomull. Denne skjorten lover comfort hele dagen.",
+      "image": "https://the-collective.imgix.net/img/app/product/3/360459-3638232.jpg?w=1600&auto=format",
+      "maxQuantity": "100"
+    },
+    {
+      "id": 5,
+      "productCategory": "Jakker",
+      "productName": "Vindjakke",
+      "productPrice": "699",
+      "description": "Vanntett, vindtett og pustende på en gang. Jakker passer perfekt til mange typer vær, og idretter.",
+      "image": "https://static.zajo.net/content/mediagallery/zajo_dcat/image/product/types/X/10106.png",
+      "maxQuantity": "100"
+    },
+    {
+      "id": 6,
+      "productCategory": "Jakker",
+      "productName": "Vindjakke",
+      "productPrice": "699",
+      "description": "Vanntett, vindtett og pustende på en gang. Jakker passer perfekt til mange typer vær, og idretter.",
+      "image": "https://static.zajo.net/content/mediagallery/zajo_dcat/image/product/types/X/10106.png",
+      "maxQuantity": "100"
+    },
+    {
+      "id": 7,
+      "productCategory": "Jakker",
+      "productName": "Vindjakke",
+      "productPrice": "699",
+      "description": "Vanntett, vindtett og pustende på en gang. Jakker passer perfekt til mange typer vær, og idretter.",
+      "image": "https://static.zajo.net/content/mediagallery/zajo_dcat/image/product/types/X/10106.png",
+      "maxQuantity": "100"
+    },
+    {
+      "id": 8,
+      "productCategory": "Jakker",
+      "productName": "Vindjakke",
+      "productPrice": "699",
+      "description": "Vanntett, vindtett og pustende på en gang. Jakker passer perfekt til mange typer vær, og idretter.",
+      "image": "https://static.zajo.net/content/mediagallery/zajo_dcat/image/product/types/X/10106.png",
+      "maxQuantity": "100"
+    },
+    {
+      "id": 9,
+      "productCategory": "Jakker",
+      "productName": "Vindjakke",
+      "productPrice": "699",
+      "description": "Vanntett, vindtett og pustende på en gang. Jakker passer perfekt til mange typer vær, og idretter.",
+      "image": "https://static.zajo.net/content/mediagallery/zajo_dcat/image/product/types/X/10106.png",
+      "maxQuantity": "100"
+    }
+  ],
+  "shoppingCart": [
+
+  ]
+}

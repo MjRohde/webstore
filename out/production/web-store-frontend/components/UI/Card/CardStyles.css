@@ -1,0 +1,10 @@
+.card:hover {
+    background-color: #eeebeb;
+}
+
+.card {
+    flex: 1 0 50%;
+    text-align: center;
+    border: none;
+    flex-direction: column;
+}
